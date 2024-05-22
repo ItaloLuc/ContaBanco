@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        // 1 - Importando a classe Scanner (já feito acima)
         Scanner scanner = new Scanner(System.in);
 
         // 2 - Exibindo mensagem para o usuário
